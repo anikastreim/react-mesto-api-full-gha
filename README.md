@@ -7,8 +7,8 @@
 
 ## Ссылки на проект
 
-IP-адрес 51.250.13.132
+IP-адрес 84.201.135.85
 
-Frontend http://mesto.anikastreim.nomoredomains.xyz/
+Frontend https://mesto.anikastreim.nomoredomains.xyz/
 
 Backend https://api.mesto.anikastreim.nomoredomains.xyz/
